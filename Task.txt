@@ -1,0 +1,59 @@
+Task Breakdown:
+Day 1: Setup & Initial Plan
+Set Up Project:
+
+Create a new project using Streamlit for the frontend and deployment.
+Initialize a GitHub repository to store your code and link it to Streamlit for deployment.
+Review Provided Materials:
+
+Go through the reference materials on TAM/SAM/SOM calculations.
+Examine the workflow design document that outlines the process for the application.
+Plan Your Approach:
+
+Develop a strategy for generating the TAM/SAM/SOM analysis based on the workflow.
+Request any necessary API keys (OpenAI API, Perplexity AI) or additional documentation you might need to get started.
+Days 2-3: Core Functionality
+Implement Core Functionality:
+
+Develop the following features:
+Document Upload: Allow users to upload business documentation (e.g., pitch decks, executive summaries).
+Document Analysis: Implement processing logic to analyze the uploaded documents.
+TAM/SAM/SOM Calculations: Integrate external APIs to perform TAM/SAM/SOM calculations based on the document analysis.
+Generate Market Research Report: Output a comprehensive report based on the analyses.
+Daily Updates:
+
+Provide daily updates detailing:
+Progress made.
+Challenges faced.
+Any help or additional documentation needed.
+Day 4: Finalize & Deploy
+Complete Core Functionality:
+
+Ensure all features are fully functional and error-free.
+Deployment:
+
+Deploy the application via Streamlit.
+Share the deployment link for testing and feedback.
+Day 5: Documentation & Submission
+Final Documentation:
+
+Create a high-level overview that includes:
+Your approach to generating the TAM/SAM/SOM analysis.
+The process for handling input documentation.
+Key design decisions made during development.
+How APIs and data sources are integrated.
+Final Submission:
+
+Submit the deployed application link along with your documentation.
+Key Requirements to Remember:
+Ensure the application is fully functional and accessible.
+Incorporate your original design and approach.
+Be proactive in seeking help and requesting documentation when needed.
+Maintain confidentiality with API keys and credentials.
+Evaluation Criteria:
+Functionality: Ensure the system can generate reports based on uploaded documentation.
+Creativity: Show originality in your solution design.
+Problem-Solving: Ask clear and relevant questions when facing challenges.
+Documentation: Provide a clear explanation of your design and approach.
+Deployment: Make sure the application is accessible via the provided link.
+Feel free to reach out if you have any questions or need further assistance!
